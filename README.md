@@ -1,4 +1,4 @@
-[![MasterHead](./assets/Senju_Symbole.svg)]()
+[![MasterHead](./assets/Benedict%20MAK.png)]()
 <h1 align="center">Hi 👋, I'm Benedict MAKOMO</h1>
 <h3 align="center">Fullstack Developer | Expertise in JavaScript and Ruby Ecosystems</h3>
 <br>
@@ -55,3 +55,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=benM4k&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+![Snake animation](https://github.com/BenM4k/BenM4k/blob/output/github-contribution-grid-snake.svg)
