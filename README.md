@@ -1,4 +1,4 @@
-[![MasterHead](./assets/Benedict%20MAK.png)]()
+[![MasterHead](./assets/senju.png)]()
 <h1 align="center">Hi 👋, I'm Benedict MAKOMO</h1>
 <h3 align="center">Fullstack Developer | Expertise in JavaScript and Ruby Ecosystems</h3>
 <br>
